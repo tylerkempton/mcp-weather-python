@@ -51,7 +51,7 @@ This project uses data from Open Weather obtained by calling their APIs.
 2. Generate an API key.
 
 ## Run
-Test the weather MCP server with the MCP Inspector and Claude Desktop.
+Test the weather MCP server with the MCP Inspector.
 
 ### MCP Inspector
 1. Run your serer with the MCP Inspector, execute the following command:
